@@ -15,9 +15,12 @@ I have a passion for problem solving. With a background in IT, I love learning n
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ## Technologies
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Flask](https://img.sheilds.io/badge/-Flask=000?&logo=Flask)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy=000?&logo=SQLAlchemy)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=sqlalchemy)
+
+## Projects
+[![CoffeeBook App](https://img.shields.io/badge/-CoffeeBook-black)](https://github.com/Galen-Reed/CoffeeBookApp)
 
 <!--
 **Galen-Reed/galen-reed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
