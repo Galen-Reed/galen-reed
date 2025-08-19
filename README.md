@@ -1,4 +1,4 @@
-<img width=100% src="https://t3.ftcdn.net/jpg/05/15/16/12/240_F_515161253_qgTl1av49pM4XmGMS8Tb7Ije0lBJcASS.jpg" alt="header"/>
+<img width=100% height="75" src="https://t3.ftcdn.net/jpg/05/15/16/12/240_F_515161253_qgTl1av49pM4XmGMS8Tb7Ije0lBJcASS.jpg" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I'm+Galen+Reed;Software+Engineer" alt="Software Engineer"/>
