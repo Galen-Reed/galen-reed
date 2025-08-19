@@ -10,18 +10,18 @@ I have a passion for problem solving. With a background in IT, I love learning n
 
 ## Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.javascript.com/)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com/)
 
 ## Technologies
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=sqlalchemy)
+[![React](https://img.shields.io/badge/-React-000?&logo=react)](https://react.dev/)
+[![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)](https://flask.palletsprojects.com/en/stable/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=sqlalchemy)](https://www.sqlalchemy.org/)
 
 ## Projects
 [![CoffeeBook App](https://img.shields.io/badge/-CoffeeBook-black)](https://github.com/Galen-Reed/CoffeeBookApp)
-
+[![TicketingSystem App](https://img.shields.io/badge/-TicketingSystem-black)](https://github.com/Galen-Reed/TicketingSystem)
 <!--
 **Galen-Reed/galen-reed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
