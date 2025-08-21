@@ -23,6 +23,11 @@ I have a passion for problem solving. With a background in IT, I love learning n
 [![CoffeeBook App](https://img.shields.io/badge/-CoffeeBook-black)](https://github.com/Galen-Reed/CoffeeBookApp)
 [![TicketingSystem App](https://img.shields.io/badge/-TicketingSystem-black)](https://github.com/Galen-Reed/TicketingSystem)
 [![VeterinaryTracker App](https://img.shields.io/badge/-VeterinaryTracker-black)](https://github.com/Galen-Reed/VeterinaryTracker)
+
+## Connect with me!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galen-reed/)
+
+
 <!--
 **Galen-Reed/galen-reed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
