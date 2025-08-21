@@ -26,8 +26,6 @@ I have a passion for problem solving. With a background in IT, I love learning n
 
 ## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galen-reed/)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100" alt="header" />
 <!--
 **Galen-Reed/galen-reed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
